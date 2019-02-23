@@ -5,6 +5,7 @@
 #define p_b push_back
 using namespace std;
 
+// write something thank you dragon
 #define vi vector<string>::iterator
 
 vector<int>sorted;
